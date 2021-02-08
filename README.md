@@ -14,10 +14,10 @@ Afterwards, back-to-back U-net networks are used for denoising and deblurring ef
 
 
 <p float="left">
-<img   src="images/noisy_140790.jpg"  hspace="20" width="200" >  
-<img   src="images/gan_noisy_140790.jpg"  hspace="20" width="200">   
-<img   src="images/denoising_deblurring_140790.jpg"  hspace="20" width="200" >  
-<img   src="images/clean_140790.jpg"  width="200">   
+<img   src="images/noisy_140790.jpg"  hspace="20" width="150" >  
+<img   src="images/gan_noisy_140790.jpg"  hspace="20" width="150">   
+<img   src="images/denoising_deblurring_140790.jpg"  hspace="20" width="150" >  
+<img   src="images/clean_140790.jpg"  width="150">   
 </p>
 
 
